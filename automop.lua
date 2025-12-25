@@ -1,3 +1,5 @@
+--// loadstring(game:HttpGet('https://raw.githubusercontent.com/louisianaui/asylum/refs/heads/main/automop.lua'))()
+
 -- AutoMop with Correct Pathfinding Order - FIXED
 
 -- Services
